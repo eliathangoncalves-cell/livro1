@@ -23,7 +23,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #dfebf1; 
+    background-color: #dbf3ff; 
 }
 
 
@@ -31,7 +31,7 @@ body {
     border: 3px solid #000000;  
     padding: 20px;              
     border-radius: 12px;        
-    background-color: #ffffff;  
+    background-color: #b5e7ff;  
 }
 
 
@@ -85,26 +85,15 @@ body {
     border-radius: 4px;
 }
 
-.card-evento h3 {
-    margin: 15px 0 10px 0;
-    font-size: 1.2rem;
-    color: #000000;
+
+
 }
 
 
-.card-evento p {
-    font-size: 0.95rem;
-    line-height: 1.4;
-    color: #333333;
-    margin: 0;
 }
 
-.container-principal {
-    display: flex;
-    flex-direction: row; /* Coloca os itens lado a lado */
-    justify-content: center; /* Centraliza o grupo de cards na tela */
-    align-items: stretch;    /* Deixa todos os cards com a mesma altura */
-    gap: 20px;               /* Espaçamento uniforme entre eles */
-}
+
+</body>
+</html>
 
 
